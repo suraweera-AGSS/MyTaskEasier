@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyTaskEasier</string>
+    <string name="add_task">+</string>
+    <string name="delete_all_tasks">DELETE ALL TASK</string>
 </resources>
