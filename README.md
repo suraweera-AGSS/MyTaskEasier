@@ -1,6 +1,8 @@
 ## MyTaskEasier: Task Management App
 
-MyTaskEasier is a mobile application built with Android Studio and Kotlin that helps you manage your tasks efficiently. It allows you to:
+MyTaskEasier is a mobile application built with Android Studio and Kotlin that helps you manage your tasks efficiently.
+
+**It allows you to:**
 
 * Add new tasks with details like name, description, priority, and deadline.
 * View a list of existing tasks in a user-friendly interface.
@@ -18,22 +20,13 @@ MyTaskEasier is a mobile application built with Android Studio and Kotlin that h
 
 This repository is currently under development. We'll soon provide detailed instructions on building and running the app. 
 
-**Technologies Used:**
+**Technologies Used:** Kotlin
+---
+**For Contributing:**
 
-* Android Studio
-* Kotlin
-* Room Persistence Library
-* Kotlin Coroutines
-* RecyclerView
-* ViewModel Architecture
-
-**Contributing:**
-
-We welcome contributions to this project! Feel free to fork the repository and submit pull requests for bug fixes or new features. Please ensure your code adheres to the existing code style and functionality.
-
-**Author:**
-
-Sithum Suraweera
+*We welcome contributions to this project! Feel free to fork the repository and submit pull requests for bug fixes or new features. Please ensure your code adheres to the existing code style and functionality.*
+---
+**Author:** Suraweera A.G.S.S - IT22339492
 
 **Stay Tuned!**
 
