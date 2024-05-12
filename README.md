@@ -42,9 +42,9 @@
 
 ---
 ## Screenshots:
-<div><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Lunching%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Main%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Create%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /></div>
+<div><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Lunching%20Screen.jpg" height="700" width="330" alt="suraweera-agss" />      <img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Main%20Screen.jpg" height="700" width="330" alt="suraweera-agss" />       <img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Create%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /></div>
 
-<div><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Update%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/View%20All%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /></div>
+<div><img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/Update%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" />        <img src="https://github.com/suraweera-AGSS/MyTaskEasier/blob/main/View%20All%20Task%20Screen.jpg" height="700" width="330" alt="suraweera-agss" /></div>
 
 ---
 **Installation:**
