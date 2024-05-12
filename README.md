@@ -33,7 +33,7 @@ We welcome contributions to this project! Feel free to fork the repository and s
 
 **Author:**
 
-[A G S S Suraweera]
+Sithum Suraweera
 
 **Stay Tuned!**
 
