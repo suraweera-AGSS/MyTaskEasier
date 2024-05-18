@@ -5,9 +5,8 @@ import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.databinding.tool.writer.ViewBinding
 import androidx.recyclerview.widget.RecyclerView
-import com.example.todolist.databinding.ViewBinding // Import ViewBinding
+import com.example.mytaskeasier.databinding.ViewBinding // Import ViewBinding
 import java.util.Locale
 
 //import kotlinx.android.synthetic.main.view.view.priority

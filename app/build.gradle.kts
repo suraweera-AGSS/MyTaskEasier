@@ -7,6 +7,10 @@ android {
     namespace = "com.example.mytaskeasier"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding =true
+    }
+
     defaultConfig {
         applicationId = "com.example.mytaskeasier"
         minSdk = 25

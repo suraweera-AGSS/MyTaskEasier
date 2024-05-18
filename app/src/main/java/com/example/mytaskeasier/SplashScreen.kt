@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.room.Room
-import com.example.todolist.databinding.ActivitySplashScreenBinding // Import ViewBinding
+import com.example.mytaskeasier.databinding.ActivitySplashScreenBinding // Import ViewBinding
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
